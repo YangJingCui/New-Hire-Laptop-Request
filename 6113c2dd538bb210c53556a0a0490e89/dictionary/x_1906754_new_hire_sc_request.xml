@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="95850ad553cbb210c53556a0a0490e18" extends="sc_request" label="SC Request" max_length="40" name="x_1906754_new_hire_sc_request" type="collection">
+        <element label="Computer Stock" max_length="32" name="computer_stock" reference="x_1906754_new_hire_computer_stock" type="reference"/>
+        <index name="index">
+            <element name="computer_stock"/>
+        </index>
+    </element>
+</database>
