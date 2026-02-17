@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>9cf2320a538b3a10c53556a0a0490ef8</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>d809f0be53477e10c53556a0a0490eaf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>requested_for</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>58f2320a538b3a10c53556a0a0490ef9</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>9409f0be53477e10c53556a0a0490eb0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,139 +32,167 @@
             <element>due_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>14f2320a538b3a10c53556a0a0490efa</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>5009f0be53477e10c53556a0a0490eb1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>computer_model</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>1c09f0be53477e10c53556a0a0490eb1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>dcf2320a538b3a10c53556a0a0490efa</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>d409f0be53477e10c53556a0a0490eb2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_at</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>98f2320a538b3a10c53556a0a0490efb</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>9009f0be53477e10c53556a0a0490eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_by</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>54f2320a538b3a10c53556a0a0490efc</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>5c09f0be53477e10c53556a0a0490eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>10f2320a538b3a10c53556a0a0490efd</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>1809f0be53477e10c53556a0a0490eb4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>approval</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>d8f2320a538b3a10c53556a0a0490efd</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>d009f0be53477e10c53556a0a0490eb5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>9c09f0be53477e10c53556a0a0490eb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>94f2320a538b3a10c53556a0a0490efe</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>5809f0be53477e10c53556a0a0490eb6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>9</position>
+            <element>short_description</element>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>50f2320a538b3a10c53556a0a0490eff</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>1409f0be53477e10c53556a0a0490eb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>10</position>
+            <element>description</element>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>1cf2320a538b3a10c53556a0a0490eff</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>dc09f0be53477e10c53556a0a0490eb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>11</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-15 14:19:10</sys_created_on>
-            <sys_id>d4f2720a538b3a10c53556a0a0490e00</sys_id>
+            <sys_created_on>2026-02-17 13:21:51</sys_created_on>
+            <sys_id>9809f0be53477e10c53556a0a0490eb8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1906754_new_hire_sc_request" sys_domain="global" view="Default view">e96043195383f210c53556a0a0490e63</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-15 14:19:10</sys_updated_on>
+            <sys_updated_on>2026-02-17 13:21:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

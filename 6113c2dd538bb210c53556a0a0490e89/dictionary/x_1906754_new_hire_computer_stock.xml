@@ -2,8 +2,12 @@
     <element db_object_id="58294e1d53cbb210c53556a0a0490e5b" label="Computer Stock" max_length="40" name="x_1906754_new_hire_computer_stock" type="collection">
         <element label="Available Quantity" mandatory="true" max_length="40" name="available_quantity" type="integer"/>
         <element label="Computer" mandatory="true" max_length="32" name="computer" reference="cmdb_ci_computer" type="reference"/>
+        <element label="Computer Model" max_length="32" name="computer_model" reference="cmdb_model" type="reference"/>
         <index name="index">
             <element name="computer"/>
+        </index>
+        <index name="index2">
+            <element name="computer_model"/>
         </index>
     </element>
 </database>

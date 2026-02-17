@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">ec73d2bc9d16321055903da570aff08a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-13 03:13:08</sys_created_on>
+        <sys_id>64574e9953cbb210c53556a0a0490ee4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="New Hire Laptop Request" source="x_1906754_new_hire">6113c2dd538bb210c53556a0a0490e89</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-13 03:13:08</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
